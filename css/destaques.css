@@ -32,6 +32,7 @@
 }
 
 .destaques__painel-texto {
+  margin-top: 0.5em;
   font-size: 1.2rem;
   line-height: normal;
 }
