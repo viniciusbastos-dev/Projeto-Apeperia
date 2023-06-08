@@ -32,6 +32,12 @@
     border-radius: 5px;
 }
 
+@media screen and (max-width: 372px) {
+    .chamada {
+        padding-top: 14rem;
+    }
+}
+
 @media screen and (min-width: 768px) {
     .chamada__texto {
         max-width: 510px;
