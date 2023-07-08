@@ -1,2 +1,3 @@
-# projeto-apeperia
-Arquivos do projeto para a Apeperia
+# Apeperia
+
+O projeto foi criado utilizando Mobile First durante o curso da Alura
