@@ -13,14 +13,6 @@ This project was created during the course "Responsive Layouts: Working with Mob
 - HTML5
 - CSS3
 
-## Project Url
+## Project URL
 
 Access the live project on GitHub Pages: [Apeperia Project](https://viniciusbastos-dev.github.io/Projeto-Apeperia/)
-
-## Course Information
-
-This project was developed as part of the "Responsive Layouts: Working with Mobile Layouts" course offered by Alura.
-
-## Contribution
-
-Contributions are welcome! Feel free to open issues to discuss possible improvements, new features, or submit pull requests.
