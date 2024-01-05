@@ -2,7 +2,7 @@
 
 Apeperia is a project developed following a Mobile-First approach. It emphasizes responsiveness, ensuring an optimal viewing experience on various mobile devices and screen sizes.
 
-![smartmockups_lr09mwi1](https://github.com/viniciusbastos-dev/Projeto-Apeperia/assets/130726518/e9afc164-2383-4d37-8640-13c5522ef4fa)
+![mockup](https://github.com/viniciusbastos-dev/Projeto-Apeperia/assets/130726518/8386d458-34fb-4248-a7bc-25b087d04b40)
 
 ## About
 
